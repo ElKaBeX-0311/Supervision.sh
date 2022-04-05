@@ -1,6 +1,6 @@
 #!/bin/sh
 ###
-### Crée par ElKaBeX-0311.
+### Crée par ElKaBeX-0311
 ### Date: 05/04/2022
 ###
 
